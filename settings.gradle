@@ -1,0 +1,6 @@
+rootProject.name = 'command-center'
+include 'rest'
+include 'bootstrap'
+include 'domain'
+include 'storage'
+

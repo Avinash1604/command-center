@@ -1,0 +1,55 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+# IDE Specific
+.classpath
+.project
+/target/
+/.settings/
+/.idea/
+/.classpath
+/.project
+/HELP.md
+/demo.iml
+/mvnw
+/mvnw.cmd
+/.apt_generated/
+/.apt_generated_tests/
+/gradle/
+
+/web/target/
+/web/web.iml
+/web/build/
+
+/service/target/
+/service/service.iml
+/service/build/
+
+/domain/target/
+/domain/domain.iml
+/domain/build/
+
+
+*.class
+*.lock
+*.bat
+*.bin
+/.gradle/
+web/bin/

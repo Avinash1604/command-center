@@ -1,0 +1,13 @@
+bootJar {
+    enabled = false
+}
+
+jar {
+    enabled = true
+}
+
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb:2.6.9'
+    implementation project(':domain')
+}
